@@ -7,7 +7,5 @@ Reference: "Positive Semidefinite Metric Learning with Boosting".
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+It's a method for learning a metric using boosting-like optimization methods.
+See the paper for details.
